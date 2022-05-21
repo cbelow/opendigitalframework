@@ -1,4 +1,4 @@
-Shelter's Digital Framework
+The Open Digital Framework
 ===========================
 
-The principles, practices, and guidance to drive modern digital at Shelter. Use the topics sections or use search to find what you need.
+The principles, practices, and guidance to drive modern digital at charities and other organisations. Use the topics sections or use search to find what you need.
